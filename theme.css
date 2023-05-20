@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
 .theme-dark,
 .theme-light {
   --brand-experiment: var(--main-color);
@@ -2395,7 +2397,7 @@ div[class^=notice] button:hover {
   margin-left: 2px;
   color: rgba(255, 255, 255, 0.5);
   font-size: 15px;
-  font-family: Whitney, "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Whitney, "Droid Arabic Kufi", "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 [class*=wordmark]::after {
@@ -2403,7 +2405,7 @@ div[class^=notice] button:hover {
   margin-left: 8px;
   color: rgba(255, 255, 255, 0.3);
   font-size: 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", "Droid Arabic Kufi", Helvetica, Arial, sans-serif;
 }
 
 [class*=socialLinks]::after {
